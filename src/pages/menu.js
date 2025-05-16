@@ -4,9 +4,9 @@ export default function loadMenu() {
     menuDiv.innerHTML = `
     <h2>The Menu</h2>
     <ul>
-        <li>Steak</li>
-        <li>Eggs</li>
-        <li>Raw milk</li>
+        <li>Steak . . . . . $20</li>
+        <li>Eggs . . . . . $20</li>
+        <li>Raw milk . . . . . $20</li>
     </ul>
     `;
     content.appendChild(menuDiv);
